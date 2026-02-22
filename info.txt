@@ -3,3 +3,5 @@ What is machine learning? Understanding types & applications ...
 Machine learning (ML) is a subset of artificial intelligence (AI) focused on building systems that learn from data to improve performance without explicit programming
 
 Supervised Learning (learns from labeled data for prediction), Unsupervised Learning (finds patterns in unlabeled data), Semi-Supervised Learning (combines labeled and unlabeled data), and Reinforcement Learning (learns through rewards and punishments).
+
+Deep learning is a type of machine learning in artificial intelligence that uses multi-layered artificial neural networks, inspired by the human brain, to learn from vast amounts of data and recognize complex patterns for tasks like image recognition, speech understanding, and making predictions. 
